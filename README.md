@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/nethinduhansaka-dev)
+- **nethinduhansaka-dev** - *Initial work* - [GitHub](https://github.com/nethinduhansaka-dev)
 
 ## 🙏 Acknowledgments
 
